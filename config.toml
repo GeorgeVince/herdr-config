@@ -1,3 +1,4 @@
+onboarding = false
 [ui.toast]
 delivery = "herdr"
 
@@ -5,6 +6,7 @@ delivery = "herdr"
 prefix = "ctrl+s"
 previous_agent = "prefix+up"
 next_agent = "prefix+down"
+split_horizontal = 'prefix+"'
 focus_pane_left = "ctrl+h"
 focus_pane_down = "ctrl+j"
 focus_pane_up = "ctrl+k"
